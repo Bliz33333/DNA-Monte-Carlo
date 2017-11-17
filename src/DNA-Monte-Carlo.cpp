@@ -16,7 +16,7 @@ using namespace std;
 int main()
 {
 	srand(time(NULL));
-	long double mutationU = .0001;
+//	long double mutationU = .0001;
 	long double mutationN = .00000001;
 	long double numSims = 100000;
 	long double fails[5] = { 0, 0, 0, 0, 0 };
